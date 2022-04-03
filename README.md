@@ -15,6 +15,13 @@
 #### Assignment: SUDOKU Grid with HTML & CSS
 
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
+
 
 ## Instructoctor - <a href="https://www.linkedin.com/in/enes-polat-09671743/">Enes POLAT</a>
 
