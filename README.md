@@ -13,3 +13,11 @@
 #### Assignment: Calculator
 ### 2nd Week: Introduction to CSS
 #### Assignment: SUDOKU Grid with HTML & CSS
+
+
+
+## Instructoctor
+![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg)
+
+## Organizator
+![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1648202432703.jpg)
