@@ -19,6 +19,7 @@
 ## Instructoctor - Enes POLAT
 <img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg" width="250" height="250">
 [LinkedIn](https://www.linkedin.com/in/enes-polat-09671743/)
+[Link text Here](https://link-url-here.org)
 
 
 ## Organizator - Berat Şeyma ÇELİK
