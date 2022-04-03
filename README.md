@@ -11,11 +11,11 @@
 <p>&nbsp;</p>
 
 ## Syllabus
--[1st Week: Introduction to HTML](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/1st%20Week)
-  Assignment: Calculator
+- [1st Week: Introduction to HTML](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/1st%20Week)
+    Assignment: Calculator
 <p>&nbsp;</p>
--[2nd Week: Introduction to CSS](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/2nd%20Week)
-  Assignment: SUDOKU Grid with HTML & CSS
+- [2nd Week: Introduction to CSS](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/2nd%20Week)
+    Assignment: SUDOKU Grid with HTML & CSS
 <p>&nbsp;</p>
 
 
