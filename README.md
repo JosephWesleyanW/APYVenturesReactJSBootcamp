@@ -3,18 +3,18 @@
 
 ### This repo contains links, notes, assignments and articles that i've found "helpful" along my learning journey.
 #### Hope this helps someone else too, Have a nice day. !!
-<br>
+
 ##
 ![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apy_ventures.png)
 ##
-<br>
+
 ## Syllabus
 ### [1st Week: Introduction to HTML] (https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/1st%20Week)
 #### Assignment: Calculator
-<br>
+
 ### [2nd Week: Introduction to CSS] (https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/2nd%20Week)
 #### Assignment: SUDOKU Grid with HTML & CSS
-<br>
+
 
  <table>
   <tr>
