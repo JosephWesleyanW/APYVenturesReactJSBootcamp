@@ -6,7 +6,7 @@
 <p>&nbsp;</p>
 
 ##
-![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apy_ventures.png)
+<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apy_ventures.png" width="800" height="350">
 ##
 
 <p>&nbsp;</p>
