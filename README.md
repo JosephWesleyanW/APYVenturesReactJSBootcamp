@@ -42,6 +42,7 @@
   </tr>
  </table>
  <p>&nbsp;</p>
+ 
 <p>&nbsp;</p>
 
 ## Syllabus
@@ -49,7 +50,7 @@
 - Assignment: Calculator
 2. [2nd Week: Introduction to CSS](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/2nd%20Week)
 - Assignment: SUDOKU Grid with HTML & CSS
-
+<p>&nbsp;</p>
 ## Articles
 - [HTML & CSS Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
 
