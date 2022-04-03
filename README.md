@@ -17,7 +17,7 @@
 
 
 ## Instructoctor
-![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg width="200" height="200")
+![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg | height=200) 
 
 ## Organizator
 ![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1648202432703.jpg)
