@@ -14,7 +14,7 @@
 ### 2nd Week: Introduction to CSS
 #### Assignment: SUDOKU Grid with HTML & CSS
 
-
+![test image size]<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg" width="400" height="790">
 
 ## Instructoctor
 ![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg|width=100px) 
