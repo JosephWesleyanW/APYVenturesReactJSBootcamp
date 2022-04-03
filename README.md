@@ -8,7 +8,9 @@
 ##
 ![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apy_ventures.png)
 ##
+
 <p>&nbsp;</p>
+
 ## Table of Contents
 <p>
 <a href="#Instructor & Organizator">Instructor & Organizator</a><br>
