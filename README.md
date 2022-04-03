@@ -10,15 +10,7 @@
 ##
 <p>&nbsp;</p>
 
-## Syllabus
-1. [1st Week: Introduction to HTML](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/1st%20Week)
-- Assignment: Calculator
-2. [2nd Week: Introduction to CSS](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/2nd%20Week)
-- Assignment: SUDOKU Grid with HTML & CSS
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
- <table>
+<table>
   <tr>
     <th>Instructor</th>
     <th>Organizator</th>
@@ -32,3 +24,13 @@
     <td><img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/164820243270.png" width="250" height="250" ></td>
   </tr>
  </table>
+ <p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Syllabus
+1. [1st Week: Introduction to HTML](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/1st%20Week)
+- Assignment: Calculator
+2. [2nd Week: Introduction to CSS](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/2nd%20Week)
+- Assignment: SUDOKU Grid with HTML & CSS
+
+ 
