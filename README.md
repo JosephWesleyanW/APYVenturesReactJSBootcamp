@@ -16,8 +16,8 @@
 2. [2nd Week: Introduction to CSS](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/2nd%20Week)
 - Assignment: SUDOKU Grid with HTML & CSS
 <p>&nbsp;</p>
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
  <table>
   <tr>
     <th>Instructor</th>
