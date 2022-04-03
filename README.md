@@ -16,12 +16,11 @@
 
 
 
-## Instructoctor - Enes POLAT
+## Instructoctor - <a href="https://www.linkedin.com/in/enes-polat-09671743/">Enes POLAT</a>
+
 <img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg" width="250" height="250">
-<a href="https://www.linkedin.com/in/enes-polat-09671743/">LinkedIn</a>
 
 
-## Organizator - Berat Şeyma ÇELİK
+## Organizator - <a href="https://www.linkedin.com/in/beratseymacelik/">Berat Şeyma ÇELİK</a>
 <img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1648202432703.jpg" width="250" height="250">
-<a href="https://www.linkedin.com/in/beratseymacelik/">LinkedIn</a>
 
