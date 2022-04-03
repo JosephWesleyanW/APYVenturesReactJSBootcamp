@@ -17,7 +17,7 @@
 
 
 ## Instructoctor - Enes POLAT
-![test image size]<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg" width="200" height="200">
+!<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg" width="250" height="250">
 
 ## Organizator - Berat Şeyma ÇELİK
-!<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1648202432703.jpg" width="200" height="200">
+!<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1648202432703.jpg" width="250" height="250">
