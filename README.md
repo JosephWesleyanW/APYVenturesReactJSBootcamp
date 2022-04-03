@@ -11,11 +11,14 @@
 <p>&nbsp;</p>
 ## Table of Contents
 <p>
+<a href="#Instructor & Organizator">Instructor & Organizator</a><br>
 <a href="#Syllabus">Headers</a><br>
 <a href="#Articles">Emphasis</a><br>
 </p>
 
 <p>&nbsp;</p>
+
+## Instructor & Organizator
 <table>
   <tr>
     <th>Instructor</th>
