@@ -22,5 +22,5 @@
 
 
 ## Organizator - <a href="https://www.linkedin.com/in/beratseymacelik/">Berat Şeyma ÇELİK</a>
-<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1648202432703.jpg" width="250" height="250">
+<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1648202432703.jpg" width="250" height="250" border-radius: 50%;>
 
