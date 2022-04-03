@@ -15,10 +15,12 @@
 #### Assignment: SUDOKU Grid with HTML & CSS
 
 
-| Syntax      | Description |
+| Instructoctor      | Organizator |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| <a href="https://www.linkedin.com/in/enes-polat-09671743/">Enes POLAT</a>      | <a href="https://www.linkedin.com/in/beratseymacelik/">Berat Şeyma ÇELİK</a>       |
+| <img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/1640611682019.jpg" width="250" height="250">
+   | <img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/164820243270.png" width="250" height="250" >
+        |
 
 
 
@@ -29,5 +31,5 @@
 
 
 ## Organizator - <a href="https://www.linkedin.com/in/beratseymacelik/">Berat Şeyma ÇELİK</a>
-<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/164820243270.png" style="border-radius: 50%;" width="250" height="250" >
+<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/164820243270.png" width="250" height="250" >
 
