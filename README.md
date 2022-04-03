@@ -13,9 +13,9 @@
 
 ## Table of Contents
 <p>
-<a href="#Instructor & Organizator">Instructor & Organizator</a><br>
-<a href="#Syllabus">Headers</a><br>
-<a href="#Articles">Emphasis</a><br>
+1 <a href="#Instructor & Organizator">Instructor & Organizator</a><br>
+2 <a href="#Syllabus">Headers</a><br>
+3 <a href="#Articles">Emphasis</a><br>
 </p>
 
 <p>&nbsp;</p>
