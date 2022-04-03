@@ -6,7 +6,9 @@
 <p>&nbsp;</p>
 
 ##
-<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apy_ventures.png" width="800" height="350">
+
+<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apy_ventures.png" width="800" height="400">
+
 ##
 
 <p>&nbsp;</p>
