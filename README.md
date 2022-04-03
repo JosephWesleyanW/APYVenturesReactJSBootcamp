@@ -9,7 +9,13 @@
 ![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apy_ventures.png)
 ##
 <p>&nbsp;</p>
+## Table of Contents
+<p>
+<a href="#Syllabus">Headers</a><br>
+<a href="#Articles">Emphasis</a><br>
+</p>
 
+<p>&nbsp;</p>
 <table>
   <tr>
     <th>Instructor</th>
@@ -32,5 +38,8 @@
 - Assignment: Calculator
 2. [2nd Week: Introduction to CSS](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/2nd%20Week)
 - Assignment: SUDOKU Grid with HTML & CSS
+
+## Articles
+- [HTML & CSS Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
 
  
