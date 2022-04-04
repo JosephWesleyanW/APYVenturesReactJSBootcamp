@@ -21,8 +21,8 @@
 ## Table of Contents
 <p>
  <a href="#Instructor & Organizator">Instructor & Organizator</a><br>
- <a href="#Syllabus">Headers</a><br>
- <a href="#Articles">Emphasis</a><br>
+ <a href="#Syllabus">Syllabus</a><br>
+ <a href="#Articles">Articles</a><br>
 </p>
 
 <p>&nbsp;</p>
