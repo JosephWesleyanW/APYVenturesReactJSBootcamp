@@ -53,6 +53,9 @@
  [2nd Week: Introduction to CSS](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/2nd%20Week)
 - Assignment: SUDOKU Grid with HTML & CSS
 
+ [3rd Week: Introduction to Bootstrap](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/3rd%20Week)
+- Assignment: Your Page with Bootstrap
+
 <p>&nbsp;</p>
 
 ## Articles
