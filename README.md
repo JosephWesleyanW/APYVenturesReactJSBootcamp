@@ -58,7 +58,7 @@
 
 <p>&nbsp;</p>
 
-## Articles
+## Articles & Links
 - [HTML & CSS Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-
+- [Dropdown Menu without clicking](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_dropdown_navbar)
  
