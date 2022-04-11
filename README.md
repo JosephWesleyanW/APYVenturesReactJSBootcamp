@@ -1,4 +1,4 @@
-# APYVenturesReactJSBootcamp
+# UretkenAkademisReactJSBootcamp
 
 
 #### This repo contains links, notes, assignments and articles that i've found "helpful" along my learning journey.
