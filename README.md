@@ -60,5 +60,6 @@
 
 ## Articles & Links
 - [HTML & CSS Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-- [Dropdown Menu without clicking](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_dropdown_navbar)
- 
+- [Dropdown Menu without clicking (only css)](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_dropdown_navbar)
+- [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+
