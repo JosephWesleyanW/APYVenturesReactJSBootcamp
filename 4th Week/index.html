@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random Img Gallery</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+
+
+
+
+    <h1 class="title">Random Images</h1>
+
+
+    <div class="topnav">
+        <a class="home" href="#home">Home</a>
+        <a href="#news">How to Buy?</a>
+        <a href="#contact">Contact</a>
+        <a href="#about">Terms</a>
+        <a href="#sign-in">About</a>
+        <a class="inputA"><input id="number1" type="number"> </a>
+        <a><button id="buttonText"onclick="newNumber();changeButtonText();" >Click for IMAGES</button></a>
+
+
+   <!--   <a href="#refresh"><button  onClick="window.location.reload();">Refresh Page</button></a> -->  
+        <button type="button" class="button" onclick="noFilter()">No Filter
+         <button type="button" class="button" onclick="blurFilter()">Blur
+        <button type="button" class="button" onclick="contrast()">Contrast
+        <button type="button" class="button" onclick="grayscale()">Grayscale
+        <button type="button" class="button" onclick="hueRotate()">Hue Rotate
+
+      </div>
+
+    <div id="filterChange" class="img-container">     </div>
+
+    <!-- 
+        <img src="https://source.unsplash.com/random/200x200" alt="random_img"> 
+    -->
+    
+
+
+    <footer>
+        <p>© All rights reserved</p>
+      </footer>
+
+
+    <script src="/main.js"></script>
+  </body>
+</html>

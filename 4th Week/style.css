@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  background-color: rgb(204, 223, 240);
+}
+
+.title {
+  margin: 50px;
+  text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: rgb(0, 0, 0);
+}
+
+.topnav a {
+  float: left;
+  color: #ffffff;
+  padding: 15px 18px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.button {
+  border: none;
+  float: right;
+  padding: 15px 18px;
+  font-size: 18px;
+}
+
+.button:hover {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+.topnav a:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+.topnav a.home {
+  background-color: #10b377;
+  color: rgb(255, 255, 255);
+}
+
+.img-container {
+  display: flex; /* Birbirlerine bitişik görüntüsünü vermesi için */
+  justify-content: center; /* Fotoğrafların sayfanın ortasında hizalanması için */
+  flex-wrap: wrap; /* Fotoğrafların alt alta sıralanması için */
+  margin-top: 20px;
+}
+
+.img-container img {
+  object-fit: cover; /* Tüm fotoğrafın konteynıra sığması için */
+  height: 400px; /* Konteynıra gelecek fotoğrafların boyutları */
+  width: 400px;
+}
+
+footer {
+  text-align: center;
+  position: fixed; /* Footer'ın sürekli gözükmesi için */
+  left: 0;
+  bottom: 0;
+  width: 100%; /* Sayfayı kaplaması için */
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
