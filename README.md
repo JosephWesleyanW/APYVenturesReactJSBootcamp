@@ -57,10 +57,17 @@
  [3rd Week: Introduction to Bootstrap](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/3rd%20Week)
 - Assignment: Your Page with Bootstrap
 
+ [4th Week: Introduction to Javascript](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/tree/main/4th%20Week)
+- Assignment: Random Image Gallery
+
+
+
 <p>&nbsp;</p>
 
 ## Articles & Links
 - [HTML & CSS Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
 - [Dropdown Menu without clicking (only css)](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_dropdown_navbar)
 - [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
-- [Why use const instead of var in JS](https://medium.com/dailyjs/use-const-and-make-your-javascript-code-better-aac4f3786ca1#:~:text=const%20prevents%20the%20variable%20to,make%20the%20value%20immutable%20too!) 
+- [Why use const instead of var in JS](https://medium.com/dailyjs/use-const-and-make-your-javascript-code-better-aac4f3786ca1#:~:text=const%20prevents%20the%20variable%20to,make%20the%20value%20immutable%20too!)
+- [Unobstrusive Javascript](https://en.wikipedia.org/wiki/Unobtrusive_JavaScript)
+
