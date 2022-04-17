@@ -23,7 +23,7 @@
 <p>
  <a href="#Instructor & Organizator">Instructor & Organizator</a><br>
  <a href="#Syllabus">Syllabus</a><br>
- <a href="#Articles">Articles</a><br>
+ <a href="### Articles & Links">Articles</a><br>
 </p>
 
 <p>&nbsp;</p>
