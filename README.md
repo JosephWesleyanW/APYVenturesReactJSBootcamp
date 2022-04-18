@@ -16,7 +16,7 @@
 
 ## Table of Contents
 <p>
- <a href="#Instructor & Organizator">Instructor & Organizator</a><br>
+ <a href="#Instructor&Organizator">Instructor & Organizator</a><br>
  <a href="#Syllabus">Syllabus</a><br>
  <a href="#Articles">Articles</a><br>
 </p>
