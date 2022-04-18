@@ -69,5 +69,5 @@
 - [Dropdown Menu without clicking (only css)](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_dropdown_navbar)
 - [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 - [Why use const instead of var in JS](https://medium.com/dailyjs/use-const-and-make-your-javascript-code-better-aac4f3786ca1#:~:text=const%20prevents%20the%20variable%20to,make%20the%20value%20immutable%20too!)
-- [Unobstrusive Javascript](https://en.wikipedia.org/wiki/Unobtrusive_JavaScript)
+- [What is Unobstrusive Javascript](http://net-informations.com/js/iq/unobtrusive.htm)
 - [Why is using onClick() in HTML a bad practice?](https://stackoverflow.com/questions/5871640/why-is-using-onclick-in-html-a-bad-practice/5871830#5871830)
