@@ -7,20 +7,9 @@
 <p>&nbsp;</p>
 
 ##
-![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apy_ventures.png)
-##
-
-##
 ![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apycco-1.png)
 ##
 
-<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apycco-1.png" width="750" height="470">
-
-<p>&nbsp;</p>
-
-##
-![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/91-918525_react-logos-download-green-tree-logo-tree-logo.png)
-##
 
 
 <p>&nbsp;</p>
