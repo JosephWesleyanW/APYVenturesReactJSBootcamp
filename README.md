@@ -14,6 +14,8 @@
 ![alt text](https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apycco-1.png)
 ##
 
+<img src="https://github.com/JosephWesleyanW/APYVenturesReactJSBootcamp/blob/main/img/apycco-1.png" width="750" height="470">
+
 <p>&nbsp;</p>
 
 ##
