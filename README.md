@@ -16,18 +16,18 @@
 
 ## Table of Contents
 <p>
- <a href="#Instructor&Organizator">Instructor & Organizator</a><br>
+ <a href="#Instructor&Coordinator">Instructor & Coordinator</a><br>
  <a href="#Syllabus">Syllabus</a><br>
  <a href="#Articles">Articles</a><br>
 </p>
 
 <p>&nbsp;</p>
 
-## Instructor & Organizator
+## Instructor & Coordinator
 <table>
   <tr>
     <th>Instructor</th>
-    <th>Organizator</th>
+    <th>Coordinator</th>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/enes-polat-09671743/">Enes POLAT</a></td>
